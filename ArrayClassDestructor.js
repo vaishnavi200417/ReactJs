@@ -1,4 +1,4 @@
-import React, { component } from "react"
+import React, { component } from 'react'
 
 class ArrayClassDestructor extends component {
     constructor() {
