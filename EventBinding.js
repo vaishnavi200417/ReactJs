@@ -1,4 +1,4 @@
-import React, { component } from "react"
+import React, { component } from 'react'
 
 class EventBinding extends component {
     constructor(props) {
