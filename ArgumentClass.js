@@ -18,4 +18,4 @@ class ArgumentClass extends component {
     }
     export default ArgumentClass
 
-    
+
