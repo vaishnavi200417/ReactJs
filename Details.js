@@ -1,5 +1,5 @@
-import React from "react";
-import Persons from "./Persons";
+import React from 'react'
+import Persons from './Persons';
 
 function Details() {
     // const persons = [
